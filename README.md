@@ -19,7 +19,7 @@
 - 🚶‍  I'm from Belarus. At the moment I have been living in Georgia for a year.
 - 🐍 I'm a Junior Frontend Developer.
 - 🤖 Most of the time I'm writing on JavaScript, React and TypeScript.
-- 📄 My professional experience [CV](https://drive.google.com/file/d/1qi4_UJyp6vSeEX4ef3VfqHAu09R6eoDm/view?usp=sharing).
+- 📄 My professional experience [CV](https://drive.google.com/file/d/1n1uDEjjN22yGqU21_Btj8ue7miuWYQfi/view?usp=drive_link).
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - 🤗 Languages: 🇷🇺  🇬🇧  🇧🇾 
 
