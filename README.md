@@ -19,7 +19,7 @@
 - 🚶‍  I'm from Belarus.
 - 🐍 I'm a Frontend Developer.
 - 🤖 Most of the time I'm writing on JavaScript, React and TypeScript.
-- 📄 My professional experience [CV](https://drive.google.com/file/d/1TxZPH_fQnUnFp0i2L1rOAvqdMeVDN5SS/view?usp=sharing).
+- 📄 My professional experience [CV](https://drive.google.com/file/d/1YYDjUjtN0pvkgSSgHZe43v47tSbMxzyW/view?usp=sharing).
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - 🤗 Languages: 🇷🇺  🇬🇧  🇧🇾 
 
